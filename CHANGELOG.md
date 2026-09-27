@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.5.3] - 2026-09-27
+
+### Bug Fixes
+
+- Session-lock hint names the config directory in use
+- Disconnecting and Reconnecting count from when they began
+- Local-time formatting builds without warnings on musl
+
+### Documentation
+
+- One tagline everywhere Vortix is described ([#359](https://github.com/Harry-kp/vortix/pull/359))
+
+### Miscellaneous
+
+- Install from homebrew-core, stop publishing to the tap ([#352](https://github.com/Harry-kp/vortix/pull/352))
+
+
+
 ## [0.5.2] - 2026-09-27
 
 ### Highlights
